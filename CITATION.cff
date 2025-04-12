@@ -1,0 +1,13 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zijie"
+  given-names: "Zhao"
+  orcid: "https://orcid.org/0000-0001-7756-7046"
+- family-names: "Jiajun"
+  given-names: "Chai"
+  orcid: "https://orcid.org/0000-0002-7611-064X"
+title: "Reward-Related MT-MARL Benchmarks"
+version: 0.0.1
+date-released: 2025-04-12
+url: "https://github.com/zhaozijie2022/reward-related-mtmarl/"
